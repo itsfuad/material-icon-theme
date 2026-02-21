@@ -364,6 +364,12 @@
         "rust": {
           "path": "./icons/rust.svg"
         },
+        "ferret": {
+          "path": "./icons/ferret.svg"
+        },
+        "ferret-manifest": {
+          "path": "./icons/ferret_mod.svg"
+        },
         "database": {
           "path": "./icons/database.svg"
         },
@@ -16534,6 +16540,7 @@
         "graphql": "graphql",
         "gql": "graphql",
         "rs": "rust",
+        "fer": "ferret",
         "ron": "rust",
         "raml": "raml",
         "xaml": "xaml",
@@ -17523,6 +17530,7 @@
         ".RUFF.TOML": "ruff",
         ".ruff.TOML": "ruff",
         ".RUFF.toml": "ruff",
+        "fer.ret": "ferret-manifest",
         "uv.toml": "uv",
         "UV.TOML": "uv",
         "uv.TOML": "uv",
